@@ -9,12 +9,12 @@
 
 ### About Me
 
-- 🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
-- 🌱 Currently working on a Database and Python.
-- 🌱 Learning Snowflake, Microservices and Tableau.
-- 💬 Ask me about **SQL, Python , POWER BI , Excel and Microservices.**
+- #🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
+- 🌱 Currently working on a Metabase and Python.
+- 🌱 Learning ML,Snowflake, Microservices and Tableau.
+- 💬 Ask me about **Metabase ,SQL, Python , POWER BI , Excel and Microservices.**
 - 📫 How to reach me: [smithparekh107@gmail.com](mailto:smithparekh107@gmail.com)
-<!-- - 📄 [Resume](https://github.com/mozzam123/mozzam123/blob/main/Mozzam's%20Resume.pdf)-->
+
 
 <br/>
 
