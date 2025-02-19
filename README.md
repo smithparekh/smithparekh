@@ -9,7 +9,7 @@
 
 ### About Me
 
-- ###🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
+- 🔭 Working at [ParityCube Pvt Ltd](https://phoenix.tech/griffyn/)
 - 🌱 Currently working on a Metabase and Python.
 - 🌱 Learning ML,Snowflake, Microservices and Tableau.
 - 💬 Ask me about **Metabase ,SQL, Python , POWER BI , Excel and Microservices.**
